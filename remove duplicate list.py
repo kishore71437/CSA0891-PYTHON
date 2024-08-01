@@ -1,0 +1,5 @@
+user_input=input("enter the elements of the list :")
+original_list=user_input.split()
+unique_list=list(set(original_list))
+unique_list.sort()
+print("Non-duplicate list :",unique_list)

@@ -1,0 +1,6 @@
+a=("Apple","banana","Orange","mango")
+print(a)
+print(len(a))
+print(a[2]*2)
+print(a[0])
+print(a[0][2])
